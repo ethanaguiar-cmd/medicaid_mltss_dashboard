@@ -1,0 +1,460 @@
+state,total_mc,comp_count,comp_pct,only_count,only_pct,year,comp_not_operated,only_not_operated,total_mltss_pct,calculation_method,data_quality_flag,analysis_sample,national_n_states,mltss_heatcat,state_id,national_mltss_pct
+North Carolina,1581301,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,North Carolina,1.9377357
+District of Columbia,180942,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,District of Columbia,1.9377357
+Colorado,1291043,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Colorado,1.9377357
+Kentucky,1284134,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Kentucky,1.9377357
+Minnesota,817463,,4,0,0,2016,0,0,4,Reported percentages,2016-17 comprehensive count unavailable,1,49,>3-4%,Minnesota,1.9377357
+New Jersey,1557081,,1.9,0,0,2016,0,0,1.9,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,New Jersey,1.9377357
+Hawaii,354289,,2.6,0,0,2016,0,0,2.5999999,Reported percentages,2016-17 comprehensive count unavailable,1,49,>2-3%,Hawaii,1.9377357
+Wyoming,391,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Wyoming,1.9377357
+Montana,121277,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Montana,1.9377357
+Ohio,2455224,,0,40709,1.7,2016,0,0,1.7,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Ohio,1.9377357
+Michigan,4370138,,0,19120,.4,2016,0,0,.40000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>0-1%,Michigan,1.9377357
+Oklahoma,643789,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Oklahoma,1.9377357
+West Virginia,390083,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,West Virginia,1.9377357
+Idaho,280527,,.8,0,0,2016,0,0,.80000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>0-1%,Idaho,1.9377357
+North Dakota,48621,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,North Dakota,1.9377357
+Arizona,1560972,,3.6,0,0,2016,0,0,3.5999999,Reported percentages,2016-17 comprehensive count unavailable,1,49,>3-4%,Arizona,1.9377357
+Mississippi,499365,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Mississippi,1.9377357
+Massachusetts,1268120,,3.7,0,0,2016,0,0,3.7,Reported percentages,2016-17 comprehensive count unavailable,1,49,>3-4%,Massachusetts,1.9377357
+Rhode Island,278087,,1.8,0,0,2016,0,0,1.8,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Rhode Island,1.9377357
+Pennsylvania,2521421,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Pennsylvania,1.9377357
+Georgia,1228700,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Georgia,1.9377357
+Kansas,390829,,7.8,0,0,2016,0,0,7.8000002,Reported percentages,2016-17 comprehensive count unavailable,1,49,>7.5-10%,Kansas,1.9377357
+Alabama,664687,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Alabama,1.9377357
+Indiana,1078625,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Indiana,1.9377357
+New Hampshire,136985,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,New Hampshire,1.9377357
+New Mexico,684488,,4.4,0,0,2016,0,0,4.4000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>4-5%,New Mexico,1.9377357
+Delaware,196102,,6.3,0,0,2016,0,0,6.3000002,Reported percentages,2016-17 comprehensive count unavailable,1,49,>5-7.5%,Delaware,1.9377357
+Nevada,557397,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Nevada,1.9377357
+Louisiana,1381116,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Louisiana,1.9377357
+South Dakota,94295,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,South Dakota,1.9377357
+Washington,1820084,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Washington,1.9377357
+Connecticut,0,,0,0,0,2016,0,0,,Reported percentages,2016-17 comprehensive count unavailable,1,49,,Connecticut,1.9377357
+Florida,3280187,,0,92350,2.8,2016,0,0,2.8,Reported percentages,2016-17 comprehensive count unavailable,1,49,>2-3%,Florida,1.9377357
+Arkansas,512041,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Arkansas,1.9377357
+Nebraska,242836,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Nebraska,1.9377357
+New York,4669344,,.1,157229,3.4,2016,0,0,3.5,Reported percentages,2016-17 comprehensive count unavailable,1,49,>3-4%,New York,1.9377357
+Illinois,1967783,,1.8,214,0,2016,0,0,1.8,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Illinois,1.9377357
+Iowa,562382,,7.2,0,0,2016,0,0,7.1999998,Reported percentages,2016-17 comprehensive count unavailable,1,49,>5-7.5%,Iowa,1.9377357
+Maryland,1080085,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Maryland,1.9377357
+California,10574784,,3,0,0,2016,0,0,3,Reported percentages,2016-17 comprehensive count unavailable,1,49,>2-3%,California,1.9377357
+Vermont,124399,,.9,0,0,2016,0,0,.89999998,Reported percentages,2016-17 comprehensive count unavailable,1,49,>0-1%,Vermont,1.9377357
+Utah,291426,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Utah,1.9377357
+Virginia,761019,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Virginia,1.9377357
+South Carolina,1235361,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,South Carolina,1.9377357
+Tennessee,1556369,,1.7,0,0,2016,0,0,1.7,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Tennessee,1.9377357
+Missouri,961682,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Missouri,1.9377357
+Texas,3922822,,4.9,0,0,2016,0,0,4.9000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>4-5%,Texas,1.9377357
+Alaska,0,,0,0,0,2016,0,0,,Reported percentages,2016-17 comprehensive count unavailable,1,49,,Alaska,1.9377357
+Wisconsin,801939,,.4,43578,5.4,2016,0,0,5.8000002,Reported percentages,2016-17 comprehensive count unavailable,1,49,>5-7.5%,Wisconsin,1.9377357
+Maine,239953,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Maine,1.9377357
+Oregon,894543,,0,0,0,2016,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Oregon,1.9377357
+Delaware,208221,,6.2,0,0,2017,0,0,6.1999998,Reported percentages,2016-17 comprehensive count unavailable,1,49,>5-7.5%,Delaware,2.0191176
+Nebraska,246633,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Nebraska,2.0191176
+Utah,282603,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Utah,2.0191176
+South Dakota,93369,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,South Dakota,2.0191176
+Kansas,398556,,7.3,0,0,2017,0,0,7.3000002,Reported percentages,2016-17 comprehensive count unavailable,1,49,>5-7.5%,Kansas,2.0191176
+Washington,1824730,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Washington,2.0191176
+Missouri,975297,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Missouri,2.0191176
+Texas,3903380,,4.5,0,0,2017,0,0,4.5,Reported percentages,2016-17 comprehensive count unavailable,1,49,>4-5%,Texas,2.0191176
+Alaska,0,,0,0,0,2017,0,0,,Reported percentages,2016-17 comprehensive count unavailable,1,49,,Alaska,2.0191176
+North Carolina,1607806,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,North Carolina,2.0191176
+New York,4710609,,.2,184298,3.9,2017,0,0,4.0999999,Reported percentages,2016-17 comprehensive count unavailable,1,49,>4-5%,New York,2.0191176
+Connecticut,0,,0,0,0,2017,0,0,,Reported percentages,2016-17 comprehensive count unavailable,1,49,,Connecticut,2.0191176
+Hawaii,360905,,1.2,0,0,2017,0,0,1.2,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Hawaii,2.0191176
+Kentucky,1308047,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Kentucky,2.0191176
+Mississippi,487201,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Mississippi,2.0191176
+Virginia,723896,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Virginia,2.0191176
+New Mexico,695772,,4.3,0,0,2017,0,0,4.3000002,Reported percentages,2016-17 comprehensive count unavailable,1,49,>4-5%,New Mexico,2.0191176
+Arkansas,522252,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Arkansas,2.0191176
+Alabama,636919,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Alabama,2.0191176
+Vermont,96823,,.9,0,0,2017,0,0,.89999998,Reported percentages,2016-17 comprehensive count unavailable,1,49,>0-1%,Vermont,2.0191176
+California,10805936,,3,0,0,2017,0,0,3,Reported percentages,2016-17 comprehensive count unavailable,1,49,>2-3%,California,2.0191176
+Nevada,578683,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Nevada,2.0191176
+Maine,238937,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Maine,2.0191176
+New Hampshire,133811,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,New Hampshire,2.0191176
+Iowa,556741,,7.4,0,0,2017,0,0,7.4000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>5-7.5%,Iowa,2.0191176
+Rhode Island,309037,,1.1,0,0,2017,0,0,1.1,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Rhode Island,2.0191176
+Oklahoma,652952,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Oklahoma,2.0191176
+New Jersey,1560395,,2.4,0,0,2017,0,0,2.4000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>2-3%,New Jersey,2.0191176
+Tennessee,1409555,,1.8,0,0,2017,0,0,1.8,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Tennessee,2.0191176
+Illinois,1912602,,1.8,28223,1.5,2017,0,0,3.3,Reported percentages,2016-17 comprehensive count unavailable,1,49,>3-4%,Illinois,2.0191176
+Ohio,2551378,,1.8,0,0,2017,0,0,1.8,Reported percentages,2016-17 comprehensive count unavailable,1,49,>1-2%,Ohio,2.0191176
+North Dakota,49733,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,North Dakota,2.0191176
+Minnesota,846115,,3.8,0,0,2017,0,0,3.8,Reported percentages,2016-17 comprehensive count unavailable,1,49,>3-4%,Minnesota,2.0191176
+Wyoming,395,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Wyoming,2.0191176
+Idaho,292732,,.8,0,0,2017,0,0,.80000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>0-1%,Idaho,2.0191176
+Indiana,1138368,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Indiana,2.0191176
+Michigan,4655013,,0,19062,.4,2017,0,0,.40000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>0-1%,Michigan,2.0191176
+Oregon,859634,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Oregon,2.0191176
+Florida,3280341,,0,97638,3,2017,0,0,3,Reported percentages,2016-17 comprehensive count unavailable,1,49,>2-3%,Florida,2.0191176
+Montana,175012,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Montana,2.0191176
+Massachusetts,1247614,,4.4,0,0,2017,0,0,4.4000001,Reported percentages,2016-17 comprehensive count unavailable,1,49,>4-5%,Massachusetts,2.0191176
+West Virginia,424662,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,West Virginia,2.0191176
+South Carolina,1217302,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,South Carolina,2.0191176
+Louisiana,1493106,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Louisiana,2.0191176
+Wisconsin,799040,,.4,46013,5.8,2017,0,0,6.2000003,Reported percentages,2016-17 comprehensive count unavailable,1,49,>5-7.5%,Wisconsin,2.0191176
+Colorado,1327452,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Colorado,2.0191176
+Arizona,1617558,,3.6,0,0,2017,0,0,3.5999999,Reported percentages,2016-17 comprehensive count unavailable,1,49,>3-4%,Arizona,2.0191176
+Maryland,1161315,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Maryland,2.0191176
+Georgia,1256809,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Georgia,2.0191176
+District of Columbia,196704,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,District of Columbia,2.0191176
+Pennsylvania,2562466,,0,0,0,2017,0,0,0,Reported percentages,2016-17 comprehensive count unavailable,1,49,0%,Pennsylvania,2.0191176
+Mississippi,441782,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Mississippi,2.3546197
+North Dakota,48957,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,North Dakota,2.3546197
+Colorado,1171171,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Colorado,2.3546197
+Nevada,588111,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Nevada,2.3546197
+Maryland,1169708,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Maryland,2.3546197
+South Carolina,1195703,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,South Carolina,2.3546197
+Massachusetts,1211485,61367,5.1,0,0,2018,0,0,5.0654364,Enrollment counts,OK,1,49,>5-7.5%,Massachusetts,2.3546197
+Ohio,2450031,20050,.8,0,0,2018,0,0,.81835699,Enrollment counts,OK,1,49,>0-1%,Ohio,2.3546197
+New York,4764261,11144,.2,211268,4.4,2018,0,0,4.6683421,Enrollment counts,OK,1,49,>4-5%,New York,2.3546197
+Rhode Island,302407,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Rhode Island,2.3546197
+Georgia,1485250,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Georgia,2.3546197
+Oklahoma,649023,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Oklahoma,2.3546197
+Delaware,208802,13542,6.5,0,0,2018,0,0,6.48557,Enrollment counts,OK,1,49,>5-7.5%,Delaware,2.3546197
+Washington,1781048,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Washington,2.3546197
+District of Columbia,245921,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,District of Columbia,2.3546197
+Minnesota,892137,33382,3.7,0,0,2018,0,0,3.741802,Enrollment counts,OK,1,49,>3-4%,Minnesota,2.3546197
+California,10670306,346031,3.2,0,0,2018,0,0,3.2429342,Enrollment counts,OK,1,49,>3-4%,California,2.3546197
+Wisconsin,811920,3395,.4,48568,6,2018,0,0,6.4000149,Enrollment counts,OK,1,49,>5-7.5%,Wisconsin,2.3546197
+Oregon,847570,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Oregon,2.3546197
+Montana,215475,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Montana,2.3546197
+Missouri,954603,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Missouri,2.3546197
+Illinois,2176902,28756,1.3,31143,1.4,2018,0,0,2.7515707,Enrollment counts,OK,1,49,>2-3%,Illinois,2.3546197
+Pennsylvania,2627563,22523,.9,0,0,2018,0,0,.85718209,Enrollment counts,OK,1,49,>0-1%,Pennsylvania,2.3546197
+Kentucky,1259525,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Kentucky,2.3546197
+Iowa,580507,41421,7.1,0,0,2018,0,0,7.1353145,Enrollment counts,OK,1,49,>5-7.5%,Iowa,2.3546197
+Maine,234327,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Maine,2.3546197
+Florida,3178981,0,0,101524,3.2,2018,0,0,3.1936021,Enrollment counts,OK,1,49,>3-4%,Florida,2.3546197
+Connecticut,0,0,0,0,0,2018,0,0,,Enrollment counts,OK,1,49,,Connecticut,2.3546197
+Utah,271137,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Utah,2.3546197
+New Hampshire,133829,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,New Hampshire,2.3546197
+North Carolina,1581469,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,North Carolina,2.3546197
+Alabama,638221,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Alabama,2.3546197
+Alaska,0,0,0,0,0,2018,0,0,,Enrollment counts,OK,1,49,,Alaska,2.3546197
+Louisiana,1504540,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Louisiana,2.3546197
+Texas,3845916,115186,3,0,0,2018,0,0,2.9950211,Enrollment counts,OK,1,49,>2-3%,Texas,2.3546197
+New Mexico,666050,28957,4.3,0,0,2018,0,0,4.3475714,Enrollment counts,OK,1,49,>4-5%,New Mexico,2.3546197
+Vermont,123310,1311,1.1,0,0,2018,0,0,1.0631741,Enrollment counts,OK,1,49,>1-2%,Vermont,2.3546197
+Idaho,272979,3799,1.4,0,0,2018,0,0,1.3916821,Enrollment counts,OK,1,49,>1-2%,Idaho,2.3546197
+West Virginia,407193,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,West Virginia,2.3546197
+Indiana,1126425,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Indiana,2.3546197
+Arizona,1560593,60015,3.8,0,0,2018,0,0,3.8456535,Enrollment counts,OK,1,49,>3-4%,Arizona,2.3546197
+New Jersey,1569344,44715,2.8,0,0,2018,0,0,2.8492796,Enrollment counts,OK,1,49,>2-3%,New Jersey,2.3546197
+South Dakota,92184,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,South Dakota,2.3546197
+Hawaii,351685,9466,2.7,0,0,2018,0,0,2.6916132,Enrollment counts,OK,1,49,>2-3%,Hawaii,2.3546197
+Tennessee,1386664,24289,1.8,0,0,2018,0,0,1.751614,Enrollment counts,OK,1,49,>1-2%,Tennessee,2.3546197
+Wyoming,136,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Wyoming,2.3546197
+Kansas,358225,29083,8.1,0,0,2018,0,0,8.1186409,Enrollment counts,OK,1,49,>7.5-10%,Kansas,2.3546197
+Arkansas,871262,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Arkansas,2.3546197
+Nebraska,249024,0,0,0,0,2018,0,0,0,Enrollment counts,OK,1,49,0%,Nebraska,2.3546197
+Virginia,875351,212460,24.3,0,0,2018,0,0,24.271406,Enrollment counts,OK,1,49,>10%,Virginia,2.3546197
+Michigan,4608988,0,0,19055,.4,2018,0,0,.41343132,Enrollment counts,OK,1,49,>0-1%,Michigan,2.3546197
+Louisiana,1501128,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Louisiana,2.7692792
+Utah,258484,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Utah,2.7692792
+Georgia,1466300,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Georgia,2.7692792
+South Carolina,1253433,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,South Carolina,2.7692792
+Florida,3097487,,,111856,4,2019,1,0,3.6111856,Enrollment counts,Count/percent discrepancy,1,47,>3-4%,Florida,2.7692792
+Kentucky,1224145,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Kentucky,2.7692792
+Delaware,208650,14916,7.1,,,2019,0,1,7.1488137,Enrollment counts,OK,1,47,>5-7.5%,Delaware,2.7692792
+Hawaii,327762,7728,2.4,,,2019,0,1,2.3578084,Enrollment counts,OK,1,47,>2-3%,Hawaii,2.7692792
+North Carolina,1621483,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,North Carolina,2.7692792
+Colorado,1182928,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Colorado,2.7692792
+New York,4705224,16372,.3,238684,5.1,2019,0,0,5.4206982,Enrollment counts,OK,1,47,>5-7.5%,New York,2.7692792
+Washington,1742684,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Washington,2.7692792
+Nevada,575184,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Nevada,2.7692792
+Alabama,869791,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Alabama,2.7692792
+Oregon,869710,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Oregon,2.7692792
+West Virginia,387376,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,West Virginia,2.7692792
+Virginia,1275928,244862,19.2,,,2019,0,1,19.190895,Enrollment counts,OK,1,47,>10%,Virginia,2.7692792
+Oklahoma,645075,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Oklahoma,2.7692792
+South Dakota,90253,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,South Dakota,2.7692792
+Vermont,108731,1242,1.1,,,2019,0,1,1.1422685,Enrollment counts,OK,1,47,>1-2%,Vermont,2.7692792
+New Jersey,1499339,50230,3.4,,,2019,0,1,3.350143,Enrollment counts,OK,1,47,>3-4%,New Jersey,2.7692792
+Illinois,2122611,32980,1.6,52450,2.5,2019,0,0,4.0247602,Enrollment counts,OK,1,47,>4-5%,Illinois,2.7692792
+Alaska,,,,,,2019,1,1,,Enrollment counts,OK,1,47,,Alaska,2.7692792
+New Hampshire,173073,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,New Hampshire,2.7692792
+Maryland,1190559,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Maryland,2.7692792
+Arizona,1580628,63549,4,,,2019,0,1,4.0204906,Enrollment counts,OK,1,47,>4-5%,Arizona,2.7692792
+Kansas,341879,29017,8.5,,,2019,0,1,8.4875059,Enrollment counts,OK,1,47,>7.5-10%,Kansas,2.7692792
+Michigan,4650365,7620,.2,11425,.2,2019,0,0,.40953773,Enrollment counts,OK,1,47,>0-1%,Michigan,2.7692792
+Mississippi,436028,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Mississippi,2.7692792
+Rhode Island,293043,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Rhode Island,2.7692792
+Minnesota,849507,34701,4.1,,0,2019,0,0,,Enrollment counts,OK,1,47,,Minnesota,2.7692792
+Tennessee,1437688,27470,1.9,,,2019,0,1,1.9107066,Enrollment counts,OK,1,47,>1-2%,Tennessee,2.7692792
+Missouri,840878,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Missouri,2.7692792
+Iowa,603246,46644,7.7,,,2019,0,1,7.7321692,Enrollment counts,OK,1,47,>7.5-10%,Iowa,2.7692792
+Ohio,2371585,23636,1,,,2019,0,1,.99663305,Enrollment counts,OK,1,47,>0-1%,Ohio,2.7692792
+Idaho,289155,12230,4.2,,,2019,0,1,4.2295656,Enrollment counts,OK,1,47,>4-5%,Idaho,2.7692792
+Massachusetts,1187701,67047,5.6,,0,2019,0,0,,Enrollment counts,OK,1,47,,Massachusetts,2.7692792
+Montana,207316,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Montana,2.7692792
+North Dakota,45939,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,North Dakota,2.7692792
+Nebraska,247490,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Nebraska,2.7692792
+Texas,3742053,157085,4.2,,,2019,0,1,4.1978292,Enrollment counts,OK,1,47,>4-5%,Texas,2.7692792
+California,10394575,362877,3.5,,,2019,0,1,3.4910231,Enrollment counts,OK,1,47,>3-4%,California,2.7692792
+Wyoming,137,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Wyoming,2.7692792
+Arkansas,822839,44830,5.4,,,2019,0,1,5.4482102,Enrollment counts,OK,1,47,>5-7.5%,Arkansas,2.7692792
+Indiana,1074748,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Indiana,2.7692792
+Maine,242488,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,Maine,2.7692792
+New Mexico,668435,28443,4.3,,,2019,0,1,4.2551632,Enrollment counts,OK,1,47,>4-5%,New Mexico,2.7692792
+Wisconsin,812661,3655,.4,49779,6.1,2019,0,0,6.5751896,Enrollment counts,OK,1,47,>5-7.5%,Wisconsin,2.7692792
+Connecticut,,,,,,2019,1,1,,Enrollment counts,OK,1,47,,Connecticut,2.7692792
+District of Columbia,249119,,,,,2019,1,1,0,Enrollment counts,OK,1,47,0%,District of Columbia,2.7692792
+Pennsylvania,2626598,87792,3.3,,,2019,0,1,3.3424225,Enrollment counts,OK,1,47,>3-4%,Pennsylvania,2.7692792
+Alaska,,,,,,2020,1,1,,Enrollment counts,OK,1,49,,Alaska,3.1182642
+Rhode Island,301740,1972,.7,,,2020,0,1,.65354276,Enrollment counts,OK,1,49,>0-1%,Rhode Island,3.1182642
+North Carolina,1703303,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,North Carolina,3.1182642
+Vermont,118656,1241,1,,,2020,0,1,1.0458806,Enrollment counts,OK,1,49,>1-2%,Vermont,3.1182642
+Wisconsin,933527,4252,.5,51075,5.5,2020,0,0,5.9266629,Enrollment counts,OK,1,49,>5-7.5%,Wisconsin,3.1182642
+Iowa,603274,46819,7.8,,,2020,0,1,7.7608185,Enrollment counts,OK,1,49,>7.5-10%,Iowa,3.1182642
+Utah,324302,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Utah,3.1182642
+Nevada,650160,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Nevada,3.1182642
+Hawaii,360277,8417,2.3,,,2020,0,1,2.3362579,Enrollment counts,OK,1,49,>2-3%,Hawaii,3.1182642
+Connecticut,,,,,,2020,1,1,,Enrollment counts,OK,1,49,,Connecticut,3.1182642
+Florida,3580237,91920,0,119623,3,2020,0,0,5.9086313,Enrollment counts,Count/percent discrepancy,1,49,>5-7.5%,Florida,3.1182642
+New York,5014525,21363,.4,248964,5,2020,0,0,5.3908796,Enrollment counts,OK,1,49,>5-7.5%,New York,3.1182642
+Minnesota,941818,52894,5.6,,,2020,0,1,5.6161594,Enrollment counts,OK,1,49,>5-7.5%,Minnesota,3.1182642
+New Mexico,718655,30313,4.2,,,2020,0,1,4.2180185,Enrollment counts,OK,1,49,>4-5%,New Mexico,3.1182642
+Indiana,1200444,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Indiana,3.1182642
+Colorado,1266374,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Colorado,3.1182642
+New Jersey,1588936,50717,3.2,,,2020,0,1,3.1918843,Enrollment counts,OK,1,49,>3-4%,New Jersey,3.1182642
+North Dakota,52986,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,North Dakota,3.1182642
+Virginia,1473316,257623,17.5,,,2020,0,1,17.485929,Enrollment counts,OK,1,49,>10%,Virginia,3.1182642
+Maryland,1256287,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Maryland,3.1182642
+Delaware,217895,15229,7,,,2020,0,1,6.9891462,Enrollment counts,OK,1,49,>5-7.5%,Delaware,3.1182642
+Kansas,365808,30569,8.4,,,2020,0,1,8.3565693,Enrollment counts,OK,1,49,>7.5-10%,Kansas,3.1182642
+Maine,265968,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Maine,3.1182642
+Kentucky,1418458,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Kentucky,3.1182642
+Tennessee,1464590,26504,1.8,,,2020,0,1,1.8096532,Enrollment counts,OK,1,49,>1-2%,Tennessee,3.1182642
+Missouri,815724,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Missouri,3.1182642
+Idaho,344075,22442,6.5,,,2020,0,1,6.5224152,Enrollment counts,OK,1,49,>5-7.5%,Idaho,3.1182642
+Washington,1830122,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Washington,3.1182642
+Arkansas,875994,43180,4.9,,,2020,0,1,4.9292574,Enrollment counts,OK,1,49,>4-5%,Arkansas,3.1182642
+Wyoming,135,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Wyoming,3.1182642
+South Dakota,79462,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,South Dakota,3.1182642
+Mississippi,450665,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Mississippi,3.1182642
+Alabama,861758,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Alabama,3.1182642
+Oklahoma,701359,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Oklahoma,3.1182642
+Texas,4074510,159555,3.9,,,2020,0,1,3.915931,Enrollment counts,OK,1,49,>3-4%,Texas,3.1182642
+West Virginia,429336,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,West Virginia,3.1182642
+Michigan,2415313,,,19498,.8,2020,1,0,.807266,Enrollment counts,OK,1,49,>0-1%,Michigan,3.1182642
+South Carolina,1277117,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,South Carolina,3.1182642
+Illinois,2394304,37869,1.6,56910,2.4,2020,0,0,3.9585199,Enrollment counts,OK,1,49,>3-4%,Illinois,3.1182642
+Nebraska,261472,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Nebraska,3.1182642
+Georgia,1647055,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Georgia,3.1182642
+Pennsylvania,2842424,183605,6.5,,,2020,0,1,6.4594517,Enrollment counts,OK,1,49,>5-7.5%,Pennsylvania,3.1182642
+Arizona,1711292,64421,3.8,,,2020,0,1,3.7644656,Enrollment counts,OK,1,49,>3-4%,Arizona,3.1182642
+Massachusetts,1239099,64935,5.2,,,2020,0,1,5.2405014,Enrollment counts,OK,1,49,>5-7.5%,Massachusetts,3.1182642
+Oregon,969719,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Oregon,3.1182642
+Louisiana,1612144,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Louisiana,3.1182642
+Ohio,2575003,24508,1,,,2020,0,1,.95176589,Enrollment counts,OK,1,49,>0-1%,Ohio,3.1182642
+New Hampshire,190713,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,New Hampshire,3.1182642
+California,10650556,338897,3.2,,,2020,0,1,3.1819654,Enrollment counts,OK,1,49,>3-4%,California,3.1182642
+Montana,235052,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,Montana,3.1182642
+District of Columbia,247592,,,,,2020,1,1,0,Enrollment counts,OK,1,49,0%,District of Columbia,3.1182642
+West Virginia,488048,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,West Virginia,3.4386687
+Connecticut,,,,,,2021,1,1,,Enrollment counts,OK,1,48,,Connecticut,3.4386687
+Louisiana,1759372,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Louisiana,3.4386687
+Delaware,244822,15774,6.4,,,2021,0,1,6.4430485,Enrollment counts,OK,1,48,>5-7.5%,Delaware,3.4386687
+District of Columbia,268245,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,District of Columbia,3.4386687
+Maryland,1520599,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Maryland,3.4386687
+Florida,4099027,,,121321,3,2021,1,0,2.9597511,Enrollment counts,OK,1,48,>2-3%,Florida,3.4386687
+New Jersey,1821033,57525,3.2,,,2021,0,1,3.1589212,Enrollment counts,OK,1,48,>3-4%,New Jersey,3.4386687
+Nebraska,334939,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Nebraska,3.4386687
+New York,5620459,28966,.5,243332,4.3,2021,0,0,4.8447642,Enrollment counts,OK,1,48,>4-5%,New York,3.4386687
+South Carolina,1446070,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,South Carolina,3.4386687
+Minnesota,1150333,52375,4.6,,,2021,0,1,4.5530295,Enrollment counts,OK,1,48,>4-5%,Minnesota,3.4386687
+Alaska,,,,,,2021,1,1,,Enrollment counts,OK,1,48,,Alaska,3.4386687
+Wyoming,,,,,,2021,1,1,,Enrollment counts,OK,1,48,,Wyoming,3.4386687
+Hawaii,420033,8408,2,,,2021,0,1,2.0017474,Enrollment counts,OK,1,48,>2-3%,Hawaii,3.4386687
+Massachusetts,1387657,69129,5,,,2021,0,1,4.9817066,Enrollment counts,OK,1,48,>4-5%,Massachusetts,3.4386687
+Oklahoma,1049630,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Oklahoma,3.4386687
+Oregon,1164999,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Oregon,3.4386687
+New Mexico,781820,33267,4.3,,,2021,0,1,4.2550716,Enrollment counts,OK,1,48,>4-5%,New Mexico,3.4386687
+Mississippi,475168,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Mississippi,3.4386687
+North Carolina,2054350,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,North Carolina,3.4386687
+Kansas,407229,30015,7.4,,,2021,0,1,7.3705459,Enrollment counts,OK,1,48,>5-7.5%,Kansas,3.4386687
+Vermont,131002,1195,.9,,,2021,0,1,.9121998,Enrollment counts,OK,1,48,>0-1%,Vermont,3.4386687
+Alabama,951174,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Alabama,3.4386687
+New Hampshire,218604,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,New Hampshire,3.4386687
+Idaho,391216,23603,6,,,2021,0,1,6.0332398,Enrollment counts,OK,1,48,>5-7.5%,Idaho,3.4386687
+Missouri,810775,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Missouri,3.4386687
+Iowa,711427,38649,5.4,,,2021,0,1,5.4326024,Enrollment counts,OK,1,48,>5-7.5%,Iowa,3.4386687
+Indiana,1474054,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Indiana,3.4386687
+California,11674619,344970,3,,,2021,0,1,2.9548717,Enrollment counts,OK,1,48,>2-3%,California,3.4386687
+South Dakota,83890,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,South Dakota,3.4386687
+Wisconsin,1081647,3760,.3,51310,4.7,2021,0,0,5.09131,Enrollment counts,OK,1,48,>5-7.5%,Wisconsin,3.4386687
+Ohio,2782891,24200,.9,,,2021,0,1,.86959928,Enrollment counts,OK,1,48,>0-1%,Ohio,3.4386687
+Rhode Island,336240,2436,.7,,,2021,0,1,.72448254,Enrollment counts,OK,1,48,>0-1%,Rhode Island,3.4386687
+Arizona,1920290,557,0,62938,3.3,2021,0,0,3.3065319,Enrollment counts,OK,1,48,>3-4%,Arizona,3.4386687
+Colorado,1422844,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Colorado,3.4386687
+North Dakota,86164,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,North Dakota,3.4386687
+Tennessee,1596482,24699,1.5,,,2021,0,1,1.5470892,Enrollment counts,OK,1,48,>1-2%,Tennessee,3.4386687
+Michigan,2692435,,,19895,.7,2021,1,0,.73892218,Enrollment counts,OK,1,48,>0-1%,Michigan,3.4386687
+Montana,245390,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Montana,3.4386687
+Nevada,792428,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Nevada,3.4386687
+Washington,2008655,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Washington,3.4386687
+Georgia,2229243,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Georgia,3.4386687
+Arkansas,963945,653199,67.8,,,2021,0,1,67.7631,Enrollment counts,OK,1,48,>10%,Arkansas,3.4386687
+Maine,326611,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Maine,3.4386687
+Kentucky,1582351,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Kentucky,3.4386687
+Texas,4770549,123820,2.6,,,2021,0,1,2.5955083,Enrollment counts,OK,1,48,>2-3%,Texas,3.4386687
+Virginia,1692156,74707,4.4,,,2021,0,1,4.4149003,Enrollment counts,OK,1,48,>4-5%,Virginia,3.4386687
+Utah,402216,,,,,2021,1,1,0,Enrollment counts,OK,1,48,0%,Utah,3.4386687
+Illinois,2680873,41131,1.5,64799,2.4,2021,0,0,3.9513247,Enrollment counts,OK,1,48,>3-4%,Illinois,3.4386687
+Pennsylvania,3155790,387429,12.3,,,2021,0,1,12.276768,Enrollment counts,OK,1,48,>10%,Pennsylvania,3.4386687
+Wyoming,,,,,,2022,1,1,,Enrollment counts,OK,1,48,,Wyoming,2.1861081
+Delaware,268117,14284,5.3,,,2022,0,1,5.3275251,Enrollment counts,OK,1,48,>5-7.5%,Delaware,2.1861081
+Tennessee,1697632,24738,1.5,,,2022,0,1,1.4572062,Enrollment counts,OK,1,48,>1-2%,Tennessee,2.1861081
+Montana,243475,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Montana,2.1861081
+North Dakota,95076,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,North Dakota,2.1861081
+New Hampshire,236926,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,New Hampshire,2.1861081
+Maine,345429,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Maine,2.1861081
+Indiana,1659715,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Indiana,2.1861081
+New York,5889363,40989,.7,248579,4.2,2022,0,0,4.9167967,Enrollment counts,OK,1,48,>4-5%,New York,2.1861081
+Hawaii,450159,13750,3.1,,,2022,0,1,3.0544763,Enrollment counts,OK,1,48,>3-4%,Hawaii,2.1861081
+North Carolina,2245044,0,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,North Carolina,2.1861081
+New Jersey,1950681,64055,3.3,,,2022,0,1,3.283725,Enrollment counts,OK,1,48,>3-4%,New Jersey,2.1861081
+Connecticut,,,,,,2022,1,1,,Enrollment counts,OK,1,48,,Connecticut,2.1861081
+Maryland,1496250,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Maryland,2.1861081
+Illinois,2796521,56043,2,,,2022,0,1,2.0040257,Enrollment counts,OK,1,48,>2-3%,Illinois,2.1861081
+Texas,5328691,149913,2.8,,,2022,0,1,2.8133175,Enrollment counts,OK,1,48,>2-3%,Texas,2.1861081
+Michigan,3074187,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Michigan,2.1861081
+Pennsylvania,3484439,109953,3.2,,,2022,0,1,3.1555438,Enrollment counts,OK,1,48,>3-4%,Pennsylvania,2.1861081
+South Dakota,104455,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,South Dakota,2.1861081
+Missouri,1016503,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Missouri,2.1861081
+Georgia,2416856,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Georgia,2.1861081
+Idaho,404124,9844,2.4,,,2022,0,1,2.4358859,Enrollment counts,OK,1,48,>2-3%,Idaho,2.1861081
+Florida,5076398,124107,2.4,,,2022,0,1,2.4447846,Enrollment counts,OK,1,48,>2-3%,Florida,2.1861081
+Wisconsin,1162594,3710,.3,52662,4.5,2022,0,0,4.8488121,Enrollment counts,OK,1,48,>4-5%,Wisconsin,2.1861081
+Kansas,443835,30371,6.8,,,2022,0,1,6.8428583,Enrollment counts,OK,1,48,>5-7.5%,Kansas,2.1861081
+Arkansas,1707791,34321,2,,,2022,0,1,2.0096722,Enrollment counts,OK,1,48,>2-3%,Arkansas,2.1861081
+District of Columbia,288796,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,District of Columbia,2.1861081
+Washington,1894623,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Washington,2.1861081
+Kentucky,1494070,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Kentucky,2.1861081
+Massachusetts,1387657,69129,5,,,2022,0,1,4.9817066,Enrollment counts,OK,1,48,>4-5%,Massachusetts,2.1861081
+Alaska,,,,,,2022,1,1,,Enrollment counts,OK,1,48,,Alaska,2.1861081
+Virginia,1794045,79962,4.5,,,2022,0,1,4.4570789,Enrollment counts,OK,1,48,>4-5%,Virginia,2.1861081
+Arizona,2066895,505,0,64311,3.1,2022,0,0,3.1359117,Enrollment counts,OK,1,48,>3-4%,Arizona,2.1861081
+Alabama,1028114,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Alabama,2.1861081
+Minnesota,1168879,51234,4.4,,,2022,0,1,4.3831739,Enrollment counts,OK,1,48,>4-5%,Minnesota,2.1861081
+California,12841729,327126,2.5,,,2022,0,1,2.5473673,Enrollment counts,OK,1,48,>2-3%,California,2.1861081
+Oregon,1265779,0,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Oregon,2.1861081
+Rhode Island,351133,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Rhode Island,2.1861081
+Utah,449492,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Utah,2.1861081
+Ohio,2962997,147708,5,,,2022,0,1,4.9850879,Enrollment counts,OK,1,48,>4-5%,Ohio,2.1861081
+New Mexico,814749,31529,3.9,,,2022,0,1,3.8697808,Enrollment counts,OK,1,48,>3-4%,New Mexico,2.1861081
+Colorado,1544749,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Colorado,2.1861081
+Iowa,761121,37359,4.9,,,2022,0,1,4.9084182,Enrollment counts,OK,1,48,>4-5%,Iowa,2.1861081
+Nevada,839650,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Nevada,2.1861081
+Louisiana,1839327,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Louisiana,2.1861081
+West Virginia,589322,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,West Virginia,2.1861081
+Nebraska,373534,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Nebraska,2.1861081
+Mississippi,367137,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Mississippi,2.1861081
+South Carolina,1060312,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,South Carolina,2.1861081
+Oklahoma,824413,,,,,2022,1,1,0,Enrollment counts,OK,1,48,0%,Oklahoma,2.1861081
+Vermont,134347,680,.5,,,2022,0,1,.50615197,Enrollment counts,OK,1,48,>0-1%,Vermont,2.1861081
+Mississippi,394680,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Mississippi,2.1493824
+Minnesota,1222946,44936,3.7,,,2023,0,1,3.6744058,Enrollment counts,OK,1,49,>3-4%,Minnesota,2.1493824
+Montana,226358,,,,,2023,1,1,0,Enrollment counts,OK,1,49,0%,Montana,2.1493824
+New Hampshire,189740,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,New Hampshire,2.1493824
+Alaska,,,,,,2023,1,1,,Enrollment counts,OK,1,49,,Alaska,2.1493824
+New Jersey,2069208,64306,3.1,,,2023,0,1,3.107759,Enrollment counts,OK,1,49,>3-4%,New Jersey,2.1493824
+Connecticut,,,,,,2023,1,1,,Enrollment counts,OK,1,49,,Connecticut,2.1493824
+Wyoming,227,,,,,2023,1,1,0,Enrollment counts,OK,1,49,0%,Wyoming,2.1493824
+Indiana,1697428,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Indiana,2.1493824
+District of Columbia,296534,1936,.7,,,2023,0,1,.65287626,Enrollment counts,OK,1,49,>0-1%,District of Columbia,2.1493824
+Oregon,1269984,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Oregon,2.1493824
+Colorado,1583665,,,,,2023,1,1,0,Enrollment counts,OK,1,49,0%,Colorado,2.1493824
+Ohio,3029706,59434,2,,,2023,0,1,1.9617085,Enrollment counts,OK,1,49,>1-2%,Ohio,2.1493824
+Iowa,739334,37399,5.1,,,2023,0,1,5.0584717,Enrollment counts,OK,1,49,>5-7.5%,Iowa,2.1493824
+Illinois,2978426,102169,3.4,,,2023,0,1,3.4303017,Enrollment counts,OK,1,49,>3-4%,Illinois,2.1493824
+Oklahoma,861464,,,,,2023,1,1,0,Enrollment counts,OK,1,49,0%,Oklahoma,2.1493824
+New York,6013326,41252,.7,266772,4.4,2023,0,0,5.1223564,Enrollment counts,OK,1,49,>5-7.5%,New York,2.1493824
+Tennessee,1771460,23195,1.3,,,2023,0,1,1.3093719,Enrollment counts,OK,1,49,>1-2%,Tennessee,2.1493824
+Maine,378407,,,,,2023,1,1,0,Enrollment counts,OK,1,49,0%,Maine,2.1493824
+Kentucky,1496335,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Kentucky,2.1493824
+North Carolina,2430308,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,North Carolina,2.1493824
+Michigan,3173889,6592,.2,12233,.4,2023,0,0,.59312093,Enrollment counts,OK,1,49,>0-1%,Michigan,2.1493824
+Arizona,1946545,739,0,66304,3.4,2023,0,0,3.444205,Enrollment counts,OK,1,49,>3-4%,Arizona,2.1493824
+Washington,1831646,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Washington,2.1493824
+Texas,5413456,157921,2.9,,,2023,0,1,2.9171937,Enrollment counts,OK,1,49,>2-3%,Texas,2.1493824
+New Mexico,783647,31470,4,,,2023,0,1,4.0158386,Enrollment counts,OK,1,49,>4-5%,New Mexico,2.1493824
+Kansas,435820,30954,7.1,,,2023,0,1,7.1024737,Enrollment counts,OK,1,49,>5-7.5%,Kansas,2.1493824
+Nevada,664497,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Nevada,2.1493824
+Rhode Island,369121,13152,3.6,,,2023,0,1,3.5630593,Enrollment counts,OK,1,49,>3-4%,Rhode Island,2.1493824
+Idaho,354828,7318,2.1,,,2023,0,1,2.0624077,Enrollment counts,OK,1,49,>2-3%,Idaho,2.1493824
+South Dakota,112123,,,,,2023,1,1,0,Enrollment counts,OK,1,49,0%,South Dakota,2.1493824
+Georgia,2513329,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Georgia,2.1493824
+Delaware,285832,17186,6,,,2023,0,1,6.0126228,Enrollment counts,OK,1,49,>5-7.5%,Delaware,2.1493824
+North Dakota,109102,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,North Dakota,2.1493824
+Hawaii,446739,5217,1.2,,,2023,0,1,1.167796,Enrollment counts,OK,1,49,>1-2%,Hawaii,2.1493824
+Virginia,1865411,81345,4.4,,,2023,0,1,4.3607011,Enrollment counts,OK,1,49,>4-5%,Virginia,2.1493824
+West Virginia,547982,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,West Virginia,2.1493824
+Massachusetts,1465096,74063,5.1,,,2023,0,1,5.0551634,Enrollment counts,OK,1,49,>5-7.5%,Massachusetts,2.1493824
+Louisiana,1884020,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Louisiana,2.1493824
+Wisconsin,1166456,3722,.3,53722,4.6,2023,0,0,4.9246607,Enrollment counts,OK,1,49,>4-5%,Wisconsin,2.1493824
+Maryland,1597815,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Maryland,2.1493824
+Arkansas,904678,37244,4.1,,,2023,0,1,4.1168237,Enrollment counts,OK,1,49,>4-5%,Arkansas,2.1493824
+California,14151003,301279,2.1,,,2023,0,1,2.1290293,Enrollment counts,OK,1,49,>2-3%,California,2.1493824
+Pennsylvania,3405022,120639,3.5,,,2023,0,1,3.5429728,Enrollment counts,OK,1,49,>3-4%,Pennsylvania,2.1493824
+Vermont,187921,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Vermont,2.1493824
+Florida,5077588,131721,2.6,,,2023,0,1,2.5941648,Enrollment counts,OK,1,49,>2-3%,Florida,2.1493824
+Missouri,1215754,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Missouri,2.1493824
+Nebraska,397686,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Nebraska,2.1493824
+South Carolina,1014964,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,South Carolina,2.1493824
+Alabama,1075564,,,,,2023,1,1,0,Enrollment counts,OK,1,49,0%,Alabama,2.1493824
+Utah,429003,0,0,,,2023,0,1,0,Enrollment counts,OK,1,49,0%,Utah,2.1493824
+West Virginia,463781,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,West Virginia,2.5683434
+Maryland,1665975,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Maryland,2.5683434
+Utah,322526,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Utah,2.5683434
+Colorado,1079583,,,,,2024,1,1,0,Enrollment counts,OK,1,49,0%,Colorado,2.5683434
+Georgia,1975478,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Georgia,2.5683434
+Iowa,610326,37789,6.2,,,2024,0,1,6.1916089,Enrollment counts,OK,1,49,>5-7.5%,Iowa,2.5683434
+Alaska,,,,,,2024,1,1,,Enrollment counts,OK,1,49,,Alaska,2.5683434
+Mississippi,478746,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Mississippi,2.5683434
+Massachusetts,1225762,77340,6.3,,,2024,0,1,6.3095446,Enrollment counts,OK,1,49,>5-7.5%,Massachusetts,2.5683434
+Arizona,1843297,727,0,68974,3.7,2024,0,0,3.7813222,Enrollment counts,OK,1,49,>3-4%,Arizona,2.5683434
+Rhode Island,314175,11771,3.7,,,2024,0,1,3.7466381,Enrollment counts,OK,1,49,>3-4%,Rhode Island,2.5683434
+Missouri,1021856,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Missouri,2.5683434
+Oregon,1198880,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Oregon,2.5683434
+Louisiana,1533577,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Louisiana,2.5683434
+New Hampshire,181676,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,New Hampshire,2.5683434
+Nevada,610941,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Nevada,2.5683434
+New Mexico,735622,29983,4.1,,,2024,0,1,4.0758705,Enrollment counts,OK,1,49,>4-5%,New Mexico,2.5683434
+Tennessee,1436583,26298,1.8,,,2024,0,1,1.8305938,Enrollment counts,OK,1,49,>1-2%,Tennessee,2.5683434
+North Dakota,24546,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,North Dakota,2.5683434
+Florida,3897852,139572,3.6,,,2024,0,1,3.5807414,Enrollment counts,OK,1,49,>3-4%,Florida,2.5683434
+Wyoming,202,,,,,2024,1,1,0,Enrollment counts,OK,1,49,0%,Wyoming,2.5683434
+Oklahoma,751924,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Oklahoma,2.5683434
+Nebraska,350451,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Nebraska,2.5683434
+District of Columbia,264158,2935,1.1,,,2024,0,1,1.1110774,Enrollment counts,OK,1,49,>1-2%,District of Columbia,2.5683434
+Michigan,2362471,6724,.3,12321,.5,2024,0,0,.80614746,Enrollment counts,OK,1,49,>0-1%,Michigan,2.5683434
+Minnesota,1001988,44482,4.4,,,2024,0,1,4.4393744,Enrollment counts,OK,1,49,>4-5%,Minnesota,2.5683434
+Texas,3863808,152030,3.9,,,2024,0,1,3.9347193,Enrollment counts,OK,1,49,>3-4%,Texas,2.5683434
+Indiana,1609664,49463,3.1,,,2024,0,1,3.0728774,Enrollment counts,OK,1,49,>3-4%,Indiana,2.5683434
+Pennsylvania,2821039,131370,4.7,,,2024,0,1,4.656795,Enrollment counts,OK,1,49,>4-5%,Pennsylvania,2.5683434
+New York,5056572,51231,1,295661,5.8,2024,0,0,6.8602209,Enrollment counts,OK,1,49,>5-7.5%,New York,2.5683434
+Washington,1660905,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Washington,2.5683434
+Arkansas,803185,35153,4.4,,,2024,0,1,4.3767004,Enrollment counts,OK,1,49,>4-5%,Arkansas,2.5683434
+Kentucky,1303955,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Kentucky,2.5683434
+South Carolina,814123,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,South Carolina,2.5683434
+Illinois,2584970,55304,2.1,,,2024,0,1,2.1394446,Enrollment counts,OK,1,49,>2-3%,Illinois,2.5683434
+Montana,174914,,,,,2024,1,1,0,Enrollment counts,OK,1,49,0%,Montana,2.5683434
+Wisconsin,952642,3471,.4,52938,5.6,2024,0,0,5.9213219,Enrollment counts,OK,1,49,>5-7.5%,Wisconsin,2.5683434
+North Carolina,2581735,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,North Carolina,2.5683434
+Ohio,2663304,53331,2,,,2024,0,1,2.0024376,Enrollment counts,OK,1,49,>2-3%,Ohio,2.5683434
+Idaho,308110,7150,2.3,,,2024,0,1,2.3205998,Enrollment counts,OK,1,49,>2-3%,Idaho,2.5683434
+Kansas,359577,31588,8.800000000000001,,,2024,0,1,8.7847662,Enrollment counts,OK,1,49,>7.5-10%,Kansas,2.5683434
+Vermont,165372,0,0,,,2024,0,1,0,Enrollment counts,OK,1,49,0%,Vermont,2.5683434
+Maine,366314,,,,,2024,1,1,0,Enrollment counts,OK,1,49,0%,Maine,2.5683434
+South Dakota,106872,,,,,2024,1,1,0,Enrollment counts,OK,1,49,0%,South Dakota,2.5683434
+Virginia,1679853,82357,4.9,,,2024,0,1,4.9026313,Enrollment counts,OK,1,49,>4-5%,Virginia,2.5683434
+Connecticut,,,,,,2024,1,1,,Enrollment counts,OK,1,49,,Connecticut,2.5683434
+California,13978531,312162,2.2,,,2024,0,1,2.2331531,Enrollment counts,OK,1,49,>2-3%,California,2.5683434
+New Jersey,1555225,62534,4,,,2024,0,1,4.0208974,Enrollment counts,OK,1,49,>4-5%,New Jersey,2.5683434
+Alabama,837805,,,,,2024,1,1,0,Enrollment counts,OK,1,49,0%,Alabama,2.5683434
+Hawaii,432125,4190,1,,,2024,0,1,.96962684,Enrollment counts,OK,1,49,>0-1%,Hawaii,2.5683434
+Delaware,236213,17272,7.3,,,2024,0,1,7.3120446,Enrollment counts,OK,1,49,>5-7.5%,Delaware,2.5683434
